@@ -2,8 +2,6 @@
 
 A fast-paced, match-3 puzzle game inspired by the classic **Bejeweled Blitz**, developed using **C++** and **SFML (Simple and Fast Multimedia Library)**.
 
-![Bejeweled Screenshot](screenshot.png)
-
 ---
 
 ## 🚀 Features
