@@ -1,0 +1,37 @@
+Bejeweled Blitz Game (PF Project)
+This is a simple game that has been implemented in C++ using the SFML (Simple and Fast Multimedia Library) graphics library. The game features a grid of shapes that the player can swap to create matches and earn points. The objective of the game is to score as many points as possible before the time runs out, and it includes a timer to keep track of the time left.
+
+How to Play
+Main Menu:
+
+Use the Up and Down arrow keys to navigate between menu options.
+Press Enter to select an option.
+Select "Play" to start a new game or "Exit" to close the application.
+Game Window:
+
+Use the Arrow keys to move the selection box over candies.
+Press A, S, W, D keys to swap candies in different directions.
+Create matches of 3 or more candies in a row or column to score points.
+Special candies and combos may give you higher scores.
+Score and Timer:
+
+The current score and remaining time are displayed on the screen.
+Try to achieve the highest score before the timer runs out.
+Game Over:
+
+The game ends when the timer reaches zero.
+Your final score is displayed, and if it's higher than the previous high score, it will be updated.
+Files
+main.cpp: The main file containing the game loop and user interface.
+functions.cpp: Contains the game logic and functions for array manipulation.
+shapes: A folder containing candy shape images (shape1.png to shape7.png).
+fonts: A folder containing font files (Esportiva-8M0OM.ttf, campus personal use.ttf).
+How to Build and Run
+Install SFML:
+
+Ensure that you have SFML installed on your system. You can download it from https://www.sfml-dev.org/.
+Compile and Run.
+
+
+Credits
+Developed by ALI AZNAWAR (L23-0520) and HAFIZ FAHAD IDREES(L23-0533)
